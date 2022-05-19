@@ -6,7 +6,8 @@
 
 You can view the site here [Click Me](page)
 ------
-#Topics
+
+# Topics
 
 ##### + HTML
 ##### + Css
@@ -15,4 +16,4 @@ You can view the site here [Click Me](page)
 
 #Author
 
-Fatih NALBANT
+### Fatih NALBANT
