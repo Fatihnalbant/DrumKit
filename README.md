@@ -1,8 +1,10 @@
 # DrumKit
 
+You can use it to increase the fun among friends. 
 
-------
-## Drum kit
+##### Have fun
+
+## Drum Kit Link
 
 You can view the site here [Click Me](page)
 ------
