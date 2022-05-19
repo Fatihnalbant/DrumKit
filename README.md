@@ -2,15 +2,15 @@
 
 
 =======
-##Drum kit
+## Drum kit
 
 You can view the site here [Click Me](page)
 ------
 #Topics
 
-#####+ HTML
-#####+ Css
-#####+ JavaScript
+##### + HTML
+##### + Css
+##### + JavaScript
 ------
 
 #Author
